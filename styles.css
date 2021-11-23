@@ -1,0 +1,19 @@
+body {
+    text-align: left;
+    background-color: ghostwhite;
+    color: silver;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+img {
+    width: 75px;
+    border: 200px black;
+    border-radius: 50%;
+    align-items: left;
+}
